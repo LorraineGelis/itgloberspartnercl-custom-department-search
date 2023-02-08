@@ -1,0 +1,29 @@
+.departmentGroup__contenedor {
+    align-items: center;
+    display: flex;
+}
+
+.departmentGroup__elemento {
+    border-color: #fd611a;
+    height: 3rem;
+    margin-right: 2rem
+}
+
+.externalSearchButtonWrapper {
+    border: none;
+}
+
+.searchIcon {
+    fill: currentColor;
+    font-size: 150%;
+    height: 24px;
+    width: 24px;
+}
+
+.searchBarIcon--clear {
+    display: none;
+}
+
+.searchBarIcon {
+    background: transparent;
+}
